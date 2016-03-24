@@ -1,0 +1,18 @@
+Nagios Server Configuration:
+
+Main:
+
+https://www.youtube.com/watch?v=Sua8kt7RsZk&ebc=ANyPxKrKpZqoT_OiYIrzqKrB5SQ-66dz4YviR8-khiZP_NOHWaxK47VNiIAxBwpk4b1-pvQw19MLUK-8QsykDub3VEr3z3VlDA
+
+backup:
+http://www.tecmint.com/install-nagios-in-linux/
+
+Client Configuration:
+
+http://www.tecmint.com/how-to-add-linux-host-to-nagios-monitoring-server/
+
+http://www.unixmen.com/monitor-linux-server-using-nagios-core-nrpe/
+
+Nagios client-windows
+
+https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/monitoring-windows.html
